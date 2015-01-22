@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/diokey/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cdd6066b06bd7ce3da8fce836f51206ee4b9376d.jar" />
+    </item>
+    <item
+        jar="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e2a88454c5ba875ddf7ba5e0f2e29186f72a01b4.jar" />
+    </item>
+    <item
+        jar="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-8a321a93e00ad81455764c4192ebb13c0e85ed3a.jar" />
+    </item>
+    <item
+        jar="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-cede9d68d6ccac3374f6bbffe9472d2e7547287b.jar" />
+    </item>
+    <item
+        jar="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1b80c633156616b8e293ad7bd848e9e466380dff.jar" />
+    </item>
+    <item
+        jar="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-e5c8c2cb638df18d2f06c88092479f825d541f86.jar" />
+    </item>
+    <item
+        jar="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-e79c3c688ad0c66f52046dd9088d6b5acf0725a9.jar" />
+    </item>
+    <item
+        jar="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-74eb2a0b626a9ce65781f7d9ec8023c81c9f8cce.jar" />
+    </item>
+    <item
+        jar="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-a360a8192a4a1b2d45277c31cf0d632913b12136.jar" />
+    </item>
+
+</items>

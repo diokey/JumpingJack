@@ -1,0 +1,10 @@
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/classes/debug
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1b80c633156616b8e293ad7bd848e9e466380dff.jar
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cdd6066b06bd7ce3da8fce836f51206ee4b9376d.jar
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-8a321a93e00ad81455764c4192ebb13c0e85ed3a.jar
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-74eb2a0b626a9ce65781f7d9ec8023c81c9f8cce.jar
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e2a88454c5ba875ddf7ba5e0f2e29186f72a01b4.jar
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-e79c3c688ad0c66f52046dd9088d6b5acf0725a9.jar
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-cede9d68d6ccac3374f6bbffe9472d2e7547287b.jar
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-a360a8192a4a1b2d45277c31cf0d632913b12136.jar
+/media/diokey/Data/Dev/Android/Workspace/AndroidStudioProject/JumpingJack/Wearable/build/intermediates/pre-dexed/debug/classes-e5c8c2cb638df18d2f06c88092479f825d541f86.jar
